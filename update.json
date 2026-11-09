@@ -1,6 +1,13 @@
 {
-  "requiredVersionCode": 1,
-  "title": "Update Required",
-  "message": "Please update to continue.",
-  "redirectUrl": "https://t.me/+_yCK6uW5sntjN2M1"
+  "Version": "1.0",
+  "Title": "UPDATE AVAILABLE",
+  "Subtitle": "PureModX",
+  "Features": "Fixed Bugs,Enhanced Features",
+  "Description": "A mandatory new version is available with enhanced security, improved performance, and important fixes.",
+  "BtnLater": "LATER",
+  "BtnUpdate": "UPDATE",
+  "Url": "https://t.me/PureModXlink",
+  "ForceUpdate": true,
+  "Reminder": "2h",      
+  "BtnTimer": 0         
 }
