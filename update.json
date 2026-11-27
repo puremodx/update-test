@@ -6,8 +6,8 @@
     "updateUrl": "https://t.me/PureModXlink",
     "title": "Update Required v4.0.03.1020.03 💎",
     "description": "We have released a brand new update for MovieBox with exclusive premium features and bug fixes. Please download the latest version now to continue using the app.",
-    "isForce": true,
-    "isExpired": true,
+    "isForce": false,
+    "isExpired": false,
     "expiryDate": "2030-12-31",
     "closeButtonText": "Cancel",
     "updateButtonText": "Update Now"
