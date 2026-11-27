@@ -1,13 +1,15 @@
-{
-  "Version": "1.0",
-  "Title": "UPDATE AVAILABLE",
-  "Subtitle": "PureModX",
-  "Features": "Fixed Bugs,Enhanced Features",
-  "Description": "A mandatory new version is available with enhanced security, improved performance, and important fixes.",
-  "BtnLater": "LATER",
-  "BtnUpdate": "UPDATE",
-  "Url": "https://t.me/PureModXlink",
-  "ForceUpdate": true,
-  "Reminder": "2h",      
-  "BtnTimer": 0         
-}
+[
+  {
+    "appName": "MovieBox",
+    "packageName": "com.community.oneroom",
+    "versionCode": 50020133,
+    "updateUrl": "https://t.me/PureModXlink",
+    "title": "Update Required v4.0.03.1020.03 💎",
+    "description": "We have released a brand new update for MovieBox with exclusive premium features and bug fixes. Please download the latest version now to continue using the app.",
+    "isForce": true,
+    "isExpired": true,
+    "expiryDate": "2030-12-31",
+    "closeButtonText": "Cancel",
+    "updateButtonText": "Update Now"
+  }
+]
